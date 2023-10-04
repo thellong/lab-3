@@ -1,3 +1,8 @@
+# Lockfile
+package-lock.json
+
+index-lab2.js
+
 # Logs
 logs
 *.log
